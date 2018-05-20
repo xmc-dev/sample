@@ -1,0 +1,5 @@
+description: ONI 2017 7th grade
+dataset_name: carte
+input_file: carte.in
+output_file: carte.out
+task_list_name: archive
